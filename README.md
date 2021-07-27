@@ -15,23 +15,31 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Arinpe/Todo_list/tree/feature)
+[Live Demo Link]()
+
 
 ## Getting Started
 
-To get a local copy of the repository please run the following commands on your terminal:
+To get a local copy up and running follow these simple example steps.
 
-```bash
-$ git clone
-$ cd <folder>
-$ cd Todo_app
-$ npm install
-$ npm run start
-```
+- Clone the repository and there you go! ;-)
 
-## Testing
+### Prerequisites
 
-To run automated tests, in your terminal, change into the directory containing this project and run this command: `npm run test`.
+- Get a browser like Chrome and Firefox in their most recent versions
+- Code Editor (VSCode)
+
+### Setup
+
+- Open a terminal and run the command `git clone https://github.com/Arinpe/Weather_App.git`
+- cd Weather_app
+- run `npm install`
+- run `npm run build`
+- Open the index.html file in the dist folder with any browser of your choice.
+
+### for webpack run:
+
+`npm run build`
 
 ## Author
 
@@ -45,7 +53,7 @@ To run automated tests, in your terminal, change into the directory containing t
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/GraceOyiza/Todo_app/issues).
+Feel free to check the [issues page](https://github.com/Arinpe/Weather_App/issues).
 
 ## Show your support
 
